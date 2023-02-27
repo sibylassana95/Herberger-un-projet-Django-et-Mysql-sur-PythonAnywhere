@@ -40,8 +40,10 @@ chemins : -
 ## Virtual env :-
 ## /home/sibylassana53/.virtualenvs/testenv
 ## Static files :
-## /static //home/sibylassana53/E_learning/static
-## /images //home/sibylassana53/E_learning/images
+## /static/ :
+## /home/sibylassana53/E_learning/static
+## /images/ :
+## /home/sibylassana53/E_learning/images
 ## Configurer le fichier wsgi.py
 import os
 import sys
