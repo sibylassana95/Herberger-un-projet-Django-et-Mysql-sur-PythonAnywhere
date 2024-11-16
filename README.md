@@ -80,7 +80,7 @@ passe, nom de la base de données et hôte.
 ## Créer un super utilisateur : python manage.py createsuperuser
 Sauvegarder les données de votre projet dans un fichier
 au format JSON :
-## python manage.py dumpdata>nom_du_fichier.json
+## python manage.py dumpdata>nom_du_fichier.json ou python -Xutf8 ./manage.py dumpdata > data.json
 Charger les données d' un fichier de sauvegarde au format JSON dans votre projet : 
 ## python manage.py loaddata nom_du_fichier.json
 # base de donnée :
